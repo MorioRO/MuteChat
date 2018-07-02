@@ -1,0 +1,17 @@
+# Cei care o sa aiba aceasta permisie vor putea sa scrie in chat.
+Bypass permission: MuteChat.Bypass
+
+# Cei care o sa aiba aceasta permisie vor putea utiliza comanda /chat.
+Permission: MuteChat.Use
+
+No Permission to type: "&a\u00BB &fChat-ul este momentan oprit!"
+No Permission to execute command: "&a\u00BB &fNu ai acces la aceasta comanda."
+
+# Variabile:
+# %player_name% - Numele jucatorului.
+# %player_displayname% - Nickname-ul jucatorului.
+Chat Enabled Message: "&a\u00BB &fChat-ul a fost pornit de catre &c%player_displayname%&f."
+Chat Disabled Message: "&a\u00BB &fChat-ul a fost oprit de catre &c%player_displayname%&f."
+
+Chat Already Disabled: "&a\u00BB &fChat-ul este deja oprit."
+Chat Already Enabled: "&a\u00BB &fChat-ul este deja pornit."

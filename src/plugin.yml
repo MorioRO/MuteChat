@@ -1,0 +1,9 @@
+name: MuteChat
+author: ProgrammerD
+main: net.ProgrammerD.MuteChat.Main
+version: 1.0.0
+description: Enable or disable the chat.
+
+commands:
+   chat:
+     description: Main command of the MuteChat plugin.
